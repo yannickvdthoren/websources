@@ -30,7 +30,7 @@
 
 (Url encoder : https://yoksel.github.io/url-encoder/)
 
-## Coulors
+## Colors
 
 - https://picular.co/
 - http://khroma.co/generator/
