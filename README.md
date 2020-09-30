@@ -112,7 +112,7 @@
 
 - https://hankchizljaw.com/wrote/keeping-it-simple-with-css-that-scales/
 - https://css-tricks.com/how-to-make-a-media-query-less-card-component/
-- freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/
+- https://freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/
 - https://mattanddesign.com/dont-design-for-mobile/
 - https://uxdesign.cc/how-airbnb-drives-users-actions-with-their-landing-page-design-a-ux-analysis-d99effa9f536?gi=6c8fb210f033
 - https://growth.design/
