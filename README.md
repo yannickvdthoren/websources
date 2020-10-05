@@ -63,6 +63,7 @@
 ## Html
 
 - https://t.co/xahiOzHOXL?amp=1
+- https://caniuse.com/
 
 ## Css
 - Check for font locally : https://twitter.com/CSSInRealLife/status/1223153671036440577?s=20
@@ -105,6 +106,12 @@
 ## Dotfiles
 - https://project-awesome.org/webpro/awesome-dotfiles
 
+## Newsletters 
+
+- https://www.caniemail.com/
+- https://htmlemail.io/inline/
+- https://mjml.io/download
+
 # Fun
 
 - http://designpassword.com/
@@ -122,3 +129,29 @@
 - https://github.com/w3c/csswg-drafts/issues/4141
 - https://uxdesign.cc/how-to-deal-with-people-who-dont-get-design-design-and-strategy-3a1ef8c1841e
 - https://codyhouse.co/blog/post/css-custom-properties-vs-sass-variables
+
+# Blogs
+
+- https://css-irl.info/
+- https://css-tricks.com/
+- https://tympanus.net/codrops/
+- https://dev.to/
+- https://growth.design/case-studies/
+- https://stephaniewalter.design/blog/
+
+# Courses
+
+- https://www.freecodecamp.org/
+- https://www.udacity.com/course/web-accessibility--ud891
+
+# Newsletters
+
+- https://www.anotherdesignnewsletter.com/
+- https://www.nngroup.com/articles/subscribe/
+- https://sidebar.io/
+- https://www.tldrnewsletter.com/
+- https://bulletin.fr/
+- https://buttondown.email/the-a11y-project
+- https://jamesclear.com/3-2-1
+- Dieter Bohn Nl : https://www.theverge.com/pages/newsletters#fieldEmail
+- https://piccalil.li/#email
