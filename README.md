@@ -14,6 +14,8 @@
 - https://icons8.com/vector-creator
 - https://blush.design/
 - https://app.streamlineicons.com/home
+- https://getillustrations.com/
+- https://bgjar.com/
 
 ## Icons
 
@@ -53,6 +55,7 @@
 
 - https://colorable.jxnblk.com/
 - https://contrast-finder.tanaguru.com/
+- https://a11yresources.webflow.io/
 
 
 # Code
