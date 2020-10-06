@@ -138,6 +138,7 @@
 - https://dev.to/
 - https://growth.design/case-studies/
 - https://stephaniewalter.design/blog/
+- https://joshwcomeau.com/
 
 # Courses
 
