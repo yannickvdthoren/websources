@@ -1,13 +1,15 @@
 # websources
 
-## Photos
+## Libraries
+
+### Photo
 
 - https://unsplash.com/
 - https://www.pexels.com/
 - https://generated.photos/
 - https://uxplanet.org/picking-the-right-stock-photo-for-your-next-design-project-91691babeef8
 
-## Illustrations
+### Illustrations
 
 - https://undraw.co/
 - https://icones8.fr/illustrations
@@ -17,7 +19,7 @@
 - https://getillustrations.com/
 - https://bgjar.com/
 
-## Icons
+### Icons
 
 - https://icons.mono.company/
 - https://icones8.fr/
@@ -32,12 +34,12 @@
 
 (Url encoder : https://yoksel.github.io/url-encoder/)
 
-## Colors
+### Colors
 
 - https://picular.co/
 - http://khroma.co/generator/
 
-## Website, Screenshot, apps, emails example
+### Website, Screenshot, apps, emails inspiration
 
 - https://scrnshts.club/
 - https://www.uitab.io/
@@ -47,25 +49,25 @@
 - https://www.reallygoodemails.com/
 
 
-## Collection of library
+### Collection of library
 
 - https://www.designgems.co/
 
-## A11y
+### A11y
 
 - https://colorable.jxnblk.com/
 - https://contrast-finder.tanaguru.com/
 - https://a11yresources.webflow.io/
 
 
-# Code
+## Code
 
-## Html
+### Html
 
 - https://t.co/xahiOzHOXL?amp=1
 - https://caniuse.com/
 
-## Css
+### Css
 - Check for font locally : https://twitter.com/CSSInRealLife/status/1223153671036440577?s=20
 - https://autoprefixer.github.io/
 - https://brumm.af/shadows
@@ -79,7 +81,7 @@
 - https://medium.com/@PavelLaptev/lesser-known-css-properties-in-gifs-966a143497ba
 - https://css-tricks.com/the-trick-to-viewport-units-on-mobile/
 
-## Tutos 
+### Tutos 
 
 - https://dev.to/timothyrobards/getting-started-with-bem-4m93
 - https://dockyard.com/blog/2019/02/14/introducing-hover-hover
@@ -90,35 +92,35 @@
 - https://codyhouse.co/blog/post/how-to-clipped-blurred-background-images-in-css
 - https://blog.prototypr.io/stunning-hover-effects-with-css-variables-f855e7b95330
 
-## Base 64
+### Base 64
 
 - https://www.base64-image.de/
 
-## PWA
+### PWA
 
 - https://dev.to/yne/painless-pwa-5hao
 
-## A11y
+### A11y
 
 - https://slack.engineering/how-to-fail-at-accessibility/
 - https://medium.com/slack-design/accessibility-a-powerful-design-tool-22f5e6d46278
 
-## Dotfiles
+### Dotfiles
 - https://project-awesome.org/webpro/awesome-dotfiles
 
-## Newsletters 
+### Newsletters 
 
 - https://www.caniemail.com/
 - https://htmlemail.io/inline/
 - https://mjml.io/download
 
-# Fun
+## Fun
 
 - http://designpassword.com/
 - https://keyframes.app/animate/
 - https://dev.to/selawsky/learn-to-code-by-playing-these-games-4618
 
-# Reading
+## Reading
 
 - https://hankchizljaw.com/wrote/keeping-it-simple-with-css-that-scales/
 - https://css-tricks.com/how-to-make-a-media-query-less-card-component/
@@ -130,7 +132,7 @@
 - https://uxdesign.cc/how-to-deal-with-people-who-dont-get-design-design-and-strategy-3a1ef8c1841e
 - https://codyhouse.co/blog/post/css-custom-properties-vs-sass-variables
 
-# Blogs
+## Blogs
 
 - https://css-irl.info/
 - https://css-tricks.com/
@@ -140,12 +142,12 @@
 - https://stephaniewalter.design/blog/
 - https://joshwcomeau.com/
 
-# Courses
+## Courses
 
 - https://www.freecodecamp.org/
 - https://www.udacity.com/course/web-accessibility--ud891
 
-# Newsletters
+## Newsletters
 
 - https://www.anotherdesignnewsletter.com/
 - https://www.nngroup.com/articles/subscribe/
