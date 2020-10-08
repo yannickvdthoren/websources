@@ -18,6 +18,7 @@
 - https://app.streamlineicons.com/home
 - https://getillustrations.com/
 - https://bgjar.com/
+- https://galshir.com/pose/
 
 ### Icons
 
@@ -32,12 +33,11 @@
 - https://akveo.github.io/eva-icons/#/
 - https://app.streamlineicons.com/home
 
-(Url encoder : https://yoksel.github.io/url-encoder/)
-
 ### Colors
 
 - https://picular.co/
 - http://khroma.co/generator/
+- https://brandcolors.net/
 
 ### Website, Screenshot, apps, emails inspiration
 
@@ -47,6 +47,7 @@
 - https://www.uisources.com/apps
 - https://www.goodemailcopy.com/
 - https://www.reallygoodemails.com/
+- https://www.saasframe.io/latest
 
 
 ### Collection of library
@@ -59,6 +60,13 @@
 - https://contrast-finder.tanaguru.com/
 - https://a11yresources.webflow.io/
 
+## Tools
+
+- Upscale image : https://letsenhance.io/
+- Background remover : https://www.remove.bg/upload
+- Url encoder : https://yoksel.github.io/url-encoder/
+- base64 transformer : https://www.base64-image.de/
+- Compress img : https://compresspng.com/
 
 ## Code
 
