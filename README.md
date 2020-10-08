@@ -32,6 +32,7 @@
 - https://tablericons.com/
 - https://akveo.github.io/eva-icons/#/
 - https://app.streamlineicons.com/home
+- https://lordicon.com/
 
 ### Colors
 
@@ -67,6 +68,9 @@
 - Url encoder : https://yoksel.github.io/url-encoder/
 - base64 transformer : https://www.base64-image.de/
 - Compress img : https://compresspng.com/
+- Grapg creator : https://whimsical.com/
+- Mockup : https://www.rotato.xyz/mockup/iphone
+- Font explorer : https://www.fonts.ninja/
 
 ## Code
 
