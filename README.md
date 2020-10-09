@@ -92,6 +92,7 @@
 - https://dev.to/devdevcharlie/things-nobody-ever-taught-me-about-css-2lhj
 - https://medium.com/@PavelLaptev/lesser-known-css-properties-in-gifs-966a143497ba
 - https://css-tricks.com/the-trick-to-viewport-units-on-mobile/
+- https://ishadeed.com/article/css-vars-101/
 
 ### Tutos 
 
