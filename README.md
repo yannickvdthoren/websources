@@ -126,6 +126,7 @@
 - https://www.caniemail.com/
 - https://htmlemail.io/inline/
 - https://mjml.io/download
+- template : https://codedmails.com/
 
 ## Fun
 
