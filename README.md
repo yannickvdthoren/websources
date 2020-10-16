@@ -104,6 +104,7 @@
 - https://www.smashingmagazine.com/2019/04/art-direction-for-the-web-using-css-shapes/
 - https://codyhouse.co/blog/post/how-to-clipped-blurred-background-images-in-css
 - https://blog.prototypr.io/stunning-hover-effects-with-css-variables-f855e7b95330
+- https://css-tricks.com/switch-font-color-for-different-backgrounds-with-css/
 
 ### Base 64
 
