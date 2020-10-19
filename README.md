@@ -105,6 +105,7 @@
 - https://codyhouse.co/blog/post/how-to-clipped-blurred-background-images-in-css
 - https://blog.prototypr.io/stunning-hover-effects-with-css-variables-f855e7b95330
 - https://css-tricks.com/switch-font-color-for-different-backgrounds-with-css/
+- https://css-tricks.com/a-complete-guide-to-css-media-queries/
 
 ### Base 64
 
