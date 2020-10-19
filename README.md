@@ -165,12 +165,14 @@
 
 ## Newsletters
 
-- https://www.anotherdesignnewsletter.com/
-- https://www.nngroup.com/articles/subscribe/
-- https://sidebar.io/
-- https://www.tldrnewsletter.com/
-- https://bulletin.fr/
-- https://buttondown.email/the-a11y-project
-- https://jamesclear.com/3-2-1
-- Dieter Bohn Nl : https://www.theverge.com/pages/newsletters#fieldEmail
-- https://piccalil.li/#email
+- https://www.anotherdesignnewsletter.com/ (EN)
+- https://www.nngroup.com/articles/subscribe/ (EN)
+- https://sidebar.io/ (EN)
+- https://www.tldrnewsletter.com/ (EN)
+- https://bulletin.fr/ (FR)
+- https://buttondown.email/the-a11y-project (EN)
+- https://jamesclear.com/3-2-1 (EN)
+- Dieter Bohn Nl : https://www.theverge.com/pages/newsletters#fieldEmail (EN)
+- https://piccalil.li/#email (EN)
+- Stephanie Walter blog notifications : https://stephaniewalter.design/subscribe-to-the-blog-updates/ (EN & FR)
+- https://tout.substack.com/ (FR)
