@@ -97,6 +97,7 @@
 - https://ishadeed.com/article/css-vars-101/
 - https://web.dev/min-max-clamp/
 - https://cssvalues.com/
+- Auto-grow textarea : https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/?ref=sidebar
 
 ### Tutos 
 
