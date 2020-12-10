@@ -39,6 +39,7 @@
 - https://picular.co/
 - http://khroma.co/generator/
 - https://brandcolors.net/
+- https://farbvelo.elastiq.ch/
 
 ### Website, Screenshot, apps, emails inspiration
 
