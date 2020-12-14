@@ -100,6 +100,7 @@
 - https://web.dev/min-max-clamp/
 - https://cssvalues.com/
 - Auto-grow textarea : https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/?ref=sidebar
+- Full-Bleed in css : https://piccalil.li/tutorial/creating-a-full-bleed-css-utility/
 
 ### Tutos 
 
