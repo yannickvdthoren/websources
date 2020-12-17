@@ -193,3 +193,5 @@
 - Soundtracks : https://www.lagrandeevasion.fr/
 - lo-fi/coding music : https://coderadio.freecodecamp.org/
 - 8-bit - Military - Drones - Hip-Hop & Classical : http://radiio.net/
+- Bon entendeur : http://bonentendeur.com/
+- Poolside 80's radio : https://poolside.fm/
