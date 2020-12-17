@@ -187,3 +187,9 @@
 - https://piccalil.li/#email (EN)
 - Stephanie Walter blog notifications : https://stephaniewalter.design/subscribe-to-the-blog-updates/ (EN & FR)
 - https://tout.substack.com/ (FR)
+
+## Music Radio
+
+- Soundtracks : https://www.lagrandeevasion.fr/
+- lo-fi/coding music : https://coderadio.freecodecamp.org/
+- 8-bit - Military - Drones - Hip-Hop & Classical : http://radiio.net/
