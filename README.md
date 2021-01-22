@@ -94,7 +94,7 @@
 - https://css-tricks.com/the-trick-to-viewport-units-on-mobile/
 - https://ishadeed.com/article/css-vars-101/
 
-### Tutos 
+### Tutos
 
 - https://dev.to/timothyrobards/getting-started-with-bem-4m93
 - https://dockyard.com/blog/2019/02/14/introducing-hover-hover
@@ -121,7 +121,7 @@
 ### Dotfiles
 - https://project-awesome.org/webpro/awesome-dotfiles
 
-### Newsletters 
+### Newsletters
 
 - https://www.caniemail.com/
 - https://htmlemail.io/inline/
@@ -171,3 +171,4 @@
 - https://jamesclear.com/3-2-1
 - Dieter Bohn Nl : https://www.theverge.com/pages/newsletters#fieldEmail
 - https://piccalil.li/#email
+- https://www.appbrewery.co/p/newsletter
