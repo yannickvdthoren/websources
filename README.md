@@ -39,6 +39,7 @@
 - https://picular.co/
 - http://khroma.co/generator/
 - https://brandcolors.net/
+- https://farbvelo.elastiq.ch/
 
 ### Website, Screenshot, apps, emails inspiration
 
@@ -71,6 +72,9 @@
 - Grapg creator : https://whimsical.com/
 - Mockup : https://www.rotato.xyz/mockup/iphone
 - Font explorer : https://www.fonts.ninja/
+- The Good line-height : https://www.thegoodlineheight.com/
+- Grid creator : https://grid.layoutit.com/
+- UI drawing : https://excalidraw.com/
 
 ## Code
 
@@ -93,6 +97,11 @@
 - https://medium.com/@PavelLaptev/lesser-known-css-properties-in-gifs-966a143497ba
 - https://css-tricks.com/the-trick-to-viewport-units-on-mobile/
 - https://ishadeed.com/article/css-vars-101/
+- https://web.dev/min-max-clamp/
+- https://cssvalues.com/
+- Auto-grow textarea : https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/?ref=sidebar
+- Full-Bleed in css : https://piccalil.li/tutorial/creating-a-full-bleed-css-utility/
+- Grid with sticky element : https://melanie-richards.com/blog/css-grid-sticky/
 
 ### Tutos
 
@@ -104,6 +113,9 @@
 - https://www.smashingmagazine.com/2019/04/art-direction-for-the-web-using-css-shapes/
 - https://codyhouse.co/blog/post/how-to-clipped-blurred-background-images-in-css
 - https://blog.prototypr.io/stunning-hover-effects-with-css-variables-f855e7b95330
+- https://css-tricks.com/switch-font-color-for-different-backgrounds-with-css/
+- https://css-tricks.com/a-complete-guide-to-css-media-queries/
+- Grid : https://medium.muz.li/responsive-grid-design-ultimate-guide-7aa41ca7892
 
 ### Base 64
 
@@ -126,6 +138,7 @@
 - https://www.caniemail.com/
 - https://htmlemail.io/inline/
 - https://mjml.io/download
+- template : https://codedmails.com/
 
 ## Fun
 
@@ -159,16 +172,27 @@
 
 - https://www.freecodecamp.org/
 - https://www.udacity.com/course/web-accessibility--ud891
+- https://designcode.io/
 
 ## Newsletters
 
-- https://www.anotherdesignnewsletter.com/
-- https://www.nngroup.com/articles/subscribe/
-- https://sidebar.io/
-- https://www.tldrnewsletter.com/
-- https://bulletin.fr/
-- https://buttondown.email/the-a11y-project
-- https://jamesclear.com/3-2-1
-- Dieter Bohn Nl : https://www.theverge.com/pages/newsletters#fieldEmail
-- https://piccalil.li/#email
+- https://www.anotherdesignnewsletter.com/ (EN)
+- https://www.nngroup.com/articles/subscribe/ (EN)
+- https://sidebar.io/ (EN)
+- https://www.tldrnewsletter.com/ (EN)
+- https://bulletin.fr/ (FR)
+- https://buttondown.email/the-a11y-project (EN)
+- https://jamesclear.com/3-2-1 (EN)
+- Dieter Bohn Nl : https://www.theverge.com/pages/newsletters#fieldEmail (EN)
+- https://piccalil.li/#email (EN)
+- Stephanie Walter blog notifications : https://stephaniewalter.design/subscribe-to-the-blog-updates/ (EN & FR)
+- https://tout.substack.com/ (FR)
 - https://www.appbrewery.co/p/newsletter
+
+## Music Radio
+
+- Soundtracks : https://www.lagrandeevasion.fr/
+- lo-fi/coding music : https://coderadio.freecodecamp.org/
+- 8-bit - Military - Drones - Hip-Hop & Classical : http://radiio.net/
+- Bon entendeur : http://bonentendeur.com/
+- Poolside 80's radio : https://poolside.fm/
