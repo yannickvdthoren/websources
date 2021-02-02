@@ -75,6 +75,7 @@
 - The Good line-height : https://www.thegoodlineheight.com/
 - Grid creator : https://grid.layoutit.com/
 - UI drawing : https://excalidraw.com/
+- Perfect font scale : https://type-scale.com/
 
 ## Code
 
