@@ -104,6 +104,7 @@
 - Auto-grow textarea : https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/?ref=sidebar
 - Full-Bleed in css : https://piccalil.li/tutorial/creating-a-full-bleed-css-utility/
 - Grid with sticky element : https://melanie-richards.com/blog/css-grid-sticky/
+- Masonry, Min-Max & clamp, ch and ex units, Text-decoration and :is : https://www.smashingmagazine.com/2021/02/things-you-can-do-with-css-today/
 
 ### Tutos
 
