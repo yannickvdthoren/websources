@@ -34,6 +34,10 @@
 - https://app.streamlineicons.com/home
 - https://lordicon.com/
 
+### SVG
+
+- https://www.svgrepo.com/
+
 ### Colors
 
 - https://picular.co/
