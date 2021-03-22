@@ -204,3 +204,9 @@
 - 8-bit - Military - Drones - Hip-Hop & Classical : http://radiio.net/
 - Bon entendeur : http://bonentendeur.com/
 - Poolside 80's radio : https://poolside.fm/
+
+## App, Gear and other less expensive stuff
+
+- Adobe : https://affinity.serif.com/en-gb
+- Ultra portable Screen : https://espres.so/
+- Headphones : https://www.taotronics.com/
