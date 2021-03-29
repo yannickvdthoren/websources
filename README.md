@@ -111,6 +111,10 @@
 - Grid with sticky element : https://melanie-richards.com/blog/css-grid-sticky/
 - Masonry, Min-Max & clamp, ch and ex units, Text-decoration and :is : https://www.smashingmagazine.com/2021/02/things-you-can-do-with-css-today/
 
+### Javascript
+
+- 1 line of code : https://1loc.dev/
+
 ### Tutos
 
 - https://dev.to/timothyrobards/getting-started-with-bem-4m93
