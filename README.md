@@ -141,6 +141,7 @@
 
 - https://slack.engineering/how-to-fail-at-accessibility/
 - https://medium.com/slack-design/accessibility-a-powerful-design-tool-22f5e6d46278
+- Accessible toggle buttons : https://kittygiraudel.com/2021/04/05/an-accessible-toggle/
 
 ### Dotfiles
 - https://project-awesome.org/webpro/awesome-dotfiles
