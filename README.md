@@ -209,6 +209,7 @@
 - 8-bit - Military - Drones - Hip-Hop & Classical : http://radiio.net/
 - Bon entendeur : http://bonentendeur.com/
 - Poolside 80's radio : https://poolside.fm/
+- lo-fi/electro : https://lofi.cafe/
 
 ## App, Gear and other less expensive stuff
 
