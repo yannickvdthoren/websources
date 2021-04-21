@@ -82,6 +82,7 @@
 - Perfect font scale : https://type-scale.com/
 - Create Webpack for your next project : https://createapp.dev/
 - Create code images to share on social media : https://carbon.now.sh/
+- Add color filter on your images with css and svg : https://www.fecolormatrix.com/
 
 ## Code
 
