@@ -115,6 +115,7 @@
 ### Javascript
 
 - 1 line of code : https://1loc.dev/
+- Photo gallery in Vanilla JS : https://photoswipe.com/
 
 ### Tutos
 
