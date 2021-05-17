@@ -44,6 +44,7 @@
 - http://khroma.co/generator/
 - https://brandcolors.net/
 - https://farbvelo.elastiq.ch/
+- https://coolors.co/
 
 ### Website, Screenshot, apps, emails inspiration
 
