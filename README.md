@@ -158,6 +158,7 @@
 - https://htmlemail.io/inline/
 - https://mjml.io/download
 - template : https://codedmails.com/
+- About accessibility : https://testingaccessibility.com/
 
 ## Fun
 
