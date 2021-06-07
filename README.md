@@ -86,6 +86,7 @@
 - Create code images to share on social media : https://carbon.now.sh/
 - Add color filter on your images with css and svg : https://www.fecolormatrix.com/
 - Template for Readme file : https://readme.so/
+- Resize images for the different social networks : https://promo.com/tools/image-resizer/
 
 ## Code
 
