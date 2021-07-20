@@ -46,6 +46,10 @@
 - https://farbvelo.elastiq.ch/
 - https://coolors.co/
 
+### Fonts
+
+- https://beautifulwebtype.com/
+
 ### Website, Screenshot, apps, emails inspiration
 
 - https://scrnshts.club/
