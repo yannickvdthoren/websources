@@ -2,6 +2,8 @@
 
 ## Libraries
 
+- Photo, icons & illustrations : https://www.reshot.com/
+
 ### Photo
 
 - https://unsplash.com/
