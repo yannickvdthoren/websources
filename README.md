@@ -99,8 +99,9 @@
 
 ### Html
 
-- https://t.co/xahiOzHOXL?amp=1
+- https://t.co/xahiOzHOXL
 - https://caniuse.com/
+- Useful HTML Attributes: https://learnpine.com/blog/7-useful-html-attributes-you-may-not-know
 
 ### Css
 - Check for font locally : https://twitter.com/CSSInRealLife/status/1223153671036440577?s=20
