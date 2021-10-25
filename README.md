@@ -61,6 +61,7 @@
 - https://www.goodemailcopy.com/
 - https://www.reallygoodemails.com/
 - https://www.saasframe.io/latest
+- https://www.speakhuman.today/
 
 
 ### Collection of library
