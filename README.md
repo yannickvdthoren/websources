@@ -62,6 +62,7 @@
 - https://www.reallygoodemails.com/
 - https://www.saasframe.io/latest
 - https://www.speakhuman.today/
+- Design Checklist: https://www.checklist.design/
 
 
 ### Collection of library
