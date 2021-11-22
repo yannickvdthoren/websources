@@ -97,6 +97,7 @@
 - Resize images for the different social networks : https://promo.com/tools/image-resizer/
 - Audio call without background noise : https://www.around.co/
 - Create Social Content: https://www.willow.co/
+- Unlock paywall : https://12ft.io/
 
 ## Code
 
