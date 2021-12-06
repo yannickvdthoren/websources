@@ -10,6 +10,7 @@
 - https://www.pexels.com/
 - https://generated.photos/
 - https://uxplanet.org/picking-the-right-stock-photo-for-your-next-design-project-91691babeef8
+- AI faces: https://loremfaces.com/?utm_source=swlinks-tw
 
 ### Illustrations
 
