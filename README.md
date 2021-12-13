@@ -22,6 +22,7 @@
 - https://getillustrations.com/
 - https://bgjar.com/
 - https://galshir.com/pose/
+- https://plus.premast.com/illustrations_pack
 
 ### Icons
 
@@ -99,6 +100,8 @@
 - Audio call without background noise : https://www.around.co/
 - Create Social Content: https://www.willow.co/
 - Unlock paywall : https://12ft.io/
+- Mac launcher: https://www.raycast.com/?utm_source=swlinks-tw
+- Image optimizer: https://github.com/antonreshetov/image-optimizer
 
 ## Code
 
