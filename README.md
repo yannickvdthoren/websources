@@ -102,6 +102,7 @@
 - Unlock paywall : https://12ft.io/
 - Mac launcher: https://www.raycast.com/?utm_source=swlinks-tw
 - Image optimizer: https://github.com/antonreshetov/image-optimizer
+- Automatic font scale: https://www.fluid-type-scale.com/
 
 ## Code
 
