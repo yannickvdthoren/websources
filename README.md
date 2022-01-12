@@ -37,6 +37,7 @@
 - https://akveo.github.io/eva-icons/#/
 - https://app.streamlineicons.com/home
 - https://lordicon.com/
+- https://iconoir.com/
 
 ### SVG
 
