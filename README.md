@@ -50,6 +50,7 @@
 - https://brandcolors.net/
 - https://farbvelo.elastiq.ch/
 - https://coolors.co/
+- AI generated color palette: https://huemint.com/
 
 ### Fonts
 
