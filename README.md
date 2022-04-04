@@ -67,6 +67,7 @@
 - https://www.saasframe.io/latest
 - https://www.speakhuman.today/
 - Design Checklist: https://www.checklist.design/
+- Product page checklist: https://merchantmastery.io/blogs/blog/the-perfect-product-page-checklist
 
 
 ### Collection of library
@@ -144,6 +145,7 @@
 
 - 1 line of code : https://1loc.dev/
 - Photo gallery in Vanilla JS : https://photoswipe.com/
+- Free UI avatar for React: https://avvvatars.com/
 
 ### Tutos
 
