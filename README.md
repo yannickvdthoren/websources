@@ -108,6 +108,7 @@
 - Automatic font scale: https://www.fluid-type-scale.com/
 - Cheeseburger Lorem ipsum: http://cheeseburgeripsum.com/
 - Image placeholder: https://placekeanu.com/
+- Create a CDN from Github: https://www.jsdelivr.com/
 
 ## Code
 
