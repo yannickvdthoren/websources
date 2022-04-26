@@ -109,6 +109,7 @@
 - Cheeseburger Lorem ipsum: http://cheeseburgeripsum.com/
 - Image placeholder: https://placekeanu.com/
 - Create a CDN from Github: https://www.jsdelivr.com/
+- Free newsletter tool with paid tier: https://buttondown.email/
 
 ## Code
 
