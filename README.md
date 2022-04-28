@@ -38,6 +38,7 @@
 - https://app.streamlineicons.com/home
 - https://lordicon.com/
 - https://iconoir.com/
+- Google Icons font: https://fonts.google.com/icons?icon.style=Rounded
 
 ### SVG
 
