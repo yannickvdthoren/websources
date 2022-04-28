@@ -111,6 +111,7 @@
 - Image placeholder: https://placekeanu.com/
 - Create a CDN from Github: https://www.jsdelivr.com/
 - Free newsletter tool with paid tier: https://buttondown.email/
+- Transform your svg into background-image: https://yoksel.github.io/url-encoder/
 
 ## Code
 
