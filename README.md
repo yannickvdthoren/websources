@@ -190,6 +190,10 @@
 - template : https://codedmails.com/
 - About accessibility : https://testingaccessibility.com/
 
+### API
+
+- List of public API: https://apislist.com/
+
 ## Fun
 
 - http://designpassword.com/
