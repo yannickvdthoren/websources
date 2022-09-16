@@ -255,5 +255,6 @@
 ## App, Gear and other less expensive stuff
 
 - Adobe : https://affinity.serif.com/en-gb
+- Figma/Adobe XD/Sketch : https://penpot.app/ [FREE]
 - Ultra portable Screen : https://espres.so/
 - Headphones : https://www.taotronics.com/
