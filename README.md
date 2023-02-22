@@ -52,6 +52,7 @@
 - https://farbvelo.elastiq.ch/
 - https://coolors.co/
 - AI generated color palette: https://huemint.com/
+- Color picker from image: https://imagecolorpicker.com/
 
 ### Fonts
 
