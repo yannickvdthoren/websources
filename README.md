@@ -259,3 +259,7 @@
 - Figma/Adobe XD/Sketch : https://penpot.app/ [FREE]
 - Ultra portable Screen : https://espres.so/
 - Headphones : https://www.taotronics.com/
+- Tally - Create forms for free : https://tally.so/
+- Cron - Calendar tool : https://cron.com/
+- Raycast - Replace CMD+Space on mac : https://www.raycast.com/
+- Grid - Google Sheet + Graphs : https://grid.is/
