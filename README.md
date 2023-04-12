@@ -252,6 +252,7 @@
 - Bon entendeur : http://bonentendeur.com/
 - Poolside 80's radio : https://poolside.fm/
 - lo-fi/electro : https://lofi.cafe/
+- Web3 currated online radio : https://app.spinamp.xyz/
 
 ## App, Gear and other less expensive stuff
 
