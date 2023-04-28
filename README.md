@@ -39,6 +39,7 @@
 - https://lordicon.com/
 - https://iconoir.com/
 - Google Icons font: https://fonts.google.com/icons?icon.style=Rounded
+- https://iconoir.com/
 
 ### SVG
 
