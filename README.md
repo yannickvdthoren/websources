@@ -55,6 +55,7 @@
 - https://coolors.co/
 - AI generated color palette: https://huemint.com/
 - Color picker from image: https://imagecolorpicker.com/
+- https://colorhunt.co/
 
 ### Fonts
 
