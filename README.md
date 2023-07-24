@@ -73,6 +73,7 @@
 - https://www.speakhuman.today/
 - Design Checklist: https://www.checklist.design/
 - Product page checklist: https://merchantmastery.io/blogs/blog/the-perfect-product-page-checklist
+- https://land-book.com/
 
 
 ### Collection of library
