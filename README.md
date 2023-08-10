@@ -216,6 +216,7 @@
 - https://github.com/w3c/csswg-drafts/issues/4141
 - https://uxdesign.cc/how-to-deal-with-people-who-dont-get-design-design-and-strategy-3a1ef8c1841e
 - https://codyhouse.co/blog/post/css-custom-properties-vs-sass-variables
+- https://spec.fm/specifics/8-pt-grid
 
 ## Blogs
 
