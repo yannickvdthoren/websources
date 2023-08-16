@@ -117,6 +117,7 @@
 - Create a CDN from Github: https://www.jsdelivr.com/
 - Free newsletter tool with paid tier: https://buttondown.email/
 - Transform your svg into background-image: https://yoksel.github.io/url-encoder/
+- Fetch brand informations: https://brandfetch.com/
 
 ## Code
 
@@ -198,7 +199,6 @@
 ### API
 
 - List of public API: https://apislist.com/
-- Fetch brand informations: https://brandfetch.com/
 
 ## Fun
 
