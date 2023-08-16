@@ -198,6 +198,7 @@
 ### API
 
 - List of public API: https://apislist.com/
+- Fetch brand informations: https://brandfetch.com/
 
 ## Fun
 
