@@ -118,6 +118,7 @@
 - Free newsletter tool with paid tier: https://buttondown.email/
 - Transform your svg into background-image: https://yoksel.github.io/url-encoder/
 - Fetch brand informations: https://brandfetch.com/
+- Create a professional signature: https://signaturehound.com/
 
 ## Code
 
