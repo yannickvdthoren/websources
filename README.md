@@ -69,6 +69,7 @@
 - https://www.uisources.com/apps
 - https://www.goodemailcopy.com/
 - https://www.reallygoodemails.com/
+- https://marketingexamples.com/
 - https://www.saasframe.io/latest
 - https://www.speakhuman.today/
 - Design Checklist: https://www.checklist.design/
