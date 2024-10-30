@@ -75,6 +75,7 @@
 - Design Checklist: https://www.checklist.design/
 - Product page checklist: https://merchantmastery.io/blogs/blog/the-perfect-product-page-checklist
 - https://land-book.com/
+- https://www.designspells.com/
 
 
 ### Collection of library
@@ -121,6 +122,13 @@
 - Fetch brand informations: https://brandfetch.com/
 - Create a professional signature: https://signaturehound.com/
 - Create a personnalised map : https://www.mapchart.net/
+- Transform your text into visuals : https://www.napkin.ai/
+- Animate anything : https://gsap.com/
+- Create Motion design : https://jitter.video/
+- 3D creation with AI : https://anything.world/
+- Search clips from movies with keywords : https://www.playphrase.me/
+- Clips from movies : https://yarn.co/
+- Clips from movies per movie : https://clip.cafe/
 
 ## Code
 
