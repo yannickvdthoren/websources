@@ -120,6 +120,7 @@
 - Transform your svg into background-image: https://yoksel.github.io/url-encoder/
 - Fetch brand informations: https://brandfetch.com/
 - Create a professional signature: https://signaturehound.com/
+- Create a personnalised map : https://www.mapchart.net/
 
 ## Code
 
