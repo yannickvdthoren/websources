@@ -213,7 +213,6 @@
 
 ## Fun
 
-- http://designpassword.com/
 - https://keyframes.app/animate/
 - https://dev.to/selawsky/learn-to-code-by-playing-these-games-4618
 
@@ -239,6 +238,11 @@
 - https://growth.design/case-studies/
 - https://stephaniewalter.design/blog/
 - https://joshwcomeau.com/
+- https://www.nngroup.com/
+- https://userresearch.blog.gov.uk/
+- https://medium.com/@timesopen
+- https://research.google/blog
+- https://developer.apple.com/design/
 
 ## Courses
 
